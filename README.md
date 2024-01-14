@@ -58,3 +58,10 @@
 | 9.                    | 410                          | 40                           | 20                           | 412                   |
 
 *4. Tabula: Otrā jau esošā risinājuma rezultāti*
+
+|                                        | Jaunieviestais risinājums | Pirmais jau esošais risinājums  | Otrais jau esošais risinājums    |
+|----------------------------------------|---------------------------|---------------------------------|----------------------------------|
+| Vidējais arimētiskais $\boldsymbol{l}$ | 121mm                     | 407mm                           | 113mm                            |
+| $\boldsymbol{l}$ mediāna               | 86mm                      | 353mm                           | 92mm                             |
+
+*5. Tabula: Risinājumu vidējās aritmētiskās un mediānas vērtības
